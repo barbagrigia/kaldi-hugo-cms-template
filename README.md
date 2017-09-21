@@ -1,5 +1,7 @@
 # Netlify CMS small-business template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/barbagrigia/kaldi-hugo-cms-template.svg)](https://greenkeeper.io/)
+
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
 ## Getting started
